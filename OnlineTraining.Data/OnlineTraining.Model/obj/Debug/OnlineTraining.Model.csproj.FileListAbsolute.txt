@@ -1,0 +1,9 @@
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\OnlineTraining.Model.dll.config
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\OnlineTraining.Model.dll
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\OnlineTraining.Model.pdb
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.dll
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.xml
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\obj\Debug\OnlineTraining.Model.dll
+F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\obj\Debug\OnlineTraining.Model.pdb
