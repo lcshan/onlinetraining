@@ -7,3 +7,13 @@ F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityF
 F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.SqlServer.xml
 F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\obj\Debug\OnlineTraining.Model.dll
 F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\obj\Debug\OnlineTraining.Model.pdb
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\OnlineTraining.Model.dll.config
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\OnlineTraining.Model.dll
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\OnlineTraining.Model.pdb
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.dll
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.xml
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\obj\Debug\OnlineTraining.Model.csprojResolveAssemblyReference.cache
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\obj\Debug\OnlineTraining.Model.dll
+D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\obj\Debug\OnlineTraining.Model.pdb

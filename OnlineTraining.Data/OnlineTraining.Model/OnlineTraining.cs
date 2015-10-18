@@ -8,12 +8,12 @@
 // Do not make changes directly to this file - edit the template instead.
 // 
 // The following connection settings were used to generate this file:
-//     Configuration file:     "F:\dev\OnlineTraining\OnlineTraining.Data\OnlineTraining.Model\App.config"
+//     Configuration file:     "D:\dev\onlinetraining\OnlineTraining.Data\OnlineTraining.Model\App.config"
 //     Connection String Name: "OnlineTraningDbContext"
 //     Connection String:      "Persist Security Info=False;database=OnlineTraining;server=lucas-pc\sqlserverdev;user id=administrator;password=**zapped**;"
 // </auto-generated>
 // ------------------------------------------------------------------------------------------------
-// Database Edition       : Developer Edition (64-bit)
+// Database Edition       : Enterprise Edition: Core-based Licensing (64-bit)
 // Database Engine Edition: Enterprise
 
 // ReSharper disable RedundantUsingDirective
